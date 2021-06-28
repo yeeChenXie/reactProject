@@ -1,0 +1,10 @@
+{
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSaveTimeout": 5000,
+    // 保存时自动格式化
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
